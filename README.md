@@ -1,14 +1,16 @@
-# My first capstone
+# Capstone Project on Data Analysis and Machine Learning using Pyhton
 
-### An analysis of snake-eating squirrels in Peru in 1988
+### Remote Work and Mental Health Analysis and Predicting Mental Health Condition
 
 ![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
 
-[Link to dataset](https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv)
+[Link to dataset][(https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data)]
 
-Description of dataset
-10-capstone to fill the placeholder README.md
-(Para about your findings and techniques you used) "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+#### Description of dataset
+This dataset has 5,000 entries with 20 columns covering demographics, professional details, mental health, lifestyle, and productivity. Key features include Age, Gender, Job_Role, Stress_Level, and Mental_Health_Condition . It contains both numerical and categorical data, with missing values in Mental_Health_Condition and Physical_Activity. The data aims to analyze remote work's impact on mental health.
+
+#### General Observations
+(Para about your findings and techniques you used) 
 
 <details>
 <summary><b>Foldable hidden section</b></summary>
