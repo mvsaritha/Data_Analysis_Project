@@ -17,10 +17,13 @@ Non-binary individuals and those who prefer not to disclose gender seem to repor
 
 ####  Dashboard Analysis
 
-Productivity: Hybrid work drives the highest productivity gains, while remote work risks more productivity drops than onsite work.\n 
-Satisfaction: Remote work shows higher satisfaction and neutrality than onsite, with hybrid work offering balanced satisfaction.
-Industry Trends: Consulting, Education, and Healthcare prefer hybrid work. Manufacturing and Retail lean towards onsite, while Finance and IT show balanced preferences.
-Social Isolation: Onsite work minimizes social isolation, while remote and hybrid work show higher levels.
+1.Productivity: Hybrid work drives the highest productivity gains, while remote work risks more productivity drops than onsite work.
+
+2.Satisfaction: Remote work shows higher satisfaction and neutrality than onsite, with hybrid work offering balanced satisfaction.
+
+3.Industry Trends: Consulting, Education, and Healthcare prefer hybrid work. Manufacturing and Retail lean towards onsite, while Finance and IT show balanced preferences.
+
+4.Social Isolation: Onsite work minimizes social isolation, while remote and hybrid work show higher levels.
 
 
 
