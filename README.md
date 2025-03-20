@@ -2,7 +2,7 @@
 
 ### Remote Work and Mental Health Analysis and Predicting Mental Health Condition
 
-![Screenshot of dashboard](https://i.imgur.com/UujCjhB.png)
+![Jupyter Notebook Dashboard](RemoteWorkDashBoard.png)
 
 [Link to dataset][(https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data)]
 
